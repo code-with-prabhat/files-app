@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Files</string>
+<string name="file_manager_not_found">The file manager provided by your phone is not available. This means that this shortcut does not work on this device.</string>
+<string name="phone_unsupported">Phone not supported</string>
+</resources>
